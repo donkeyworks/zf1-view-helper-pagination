@@ -1,5 +1,5 @@
 {
-    "name": "donkeyworks/zendframework1-view-helper-paginationcontrol",
+    "name": "donkeyworks/zendframework1-view-helper-pagination",
     "description": "Zend Framework 1 View_Helper_PaginationControl component",
     "type": "library",
     "keywords": [
